@@ -1,0 +1,13 @@
+[05-Jul-2019 22:01:35 UTC] PHP Notice:  Undefined index: fname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 3
+[05-Jul-2019 22:01:35 UTC] PHP Notice:  Undefined index: phone in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 6
+[05-Jul-2019 22:01:35 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 16
+[05-Jul-2019 22:48:23 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 18
+[05-Jul-2019 22:48:23 UTC] PHP Notice:  Undefined variable: name in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 20
+[05-Jul-2019 22:49:08 UTC] PHP Notice:  Undefined index: asunto in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 6
+[05-Jul-2019 22:49:08 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 18
+[05-Jul-2019 22:49:08 UTC] PHP Notice:  Undefined variable: name in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 20
+[05-Jul-2019 22:49:58 UTC] PHP Notice:  Undefined index: fname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 3
+[05-Jul-2019 22:49:58 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 16
+[05-Jul-2019 22:52:24 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 16
+[05-Jul-2019 22:54:06 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 16
+[05-Jul-2019 22:55:39 UTC] PHP Notice:  Undefined variable: laststname in /home/grdaguinaga/public_html/ifitsaperu.com/sereing/mail.php on line 16
