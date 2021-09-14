@@ -4360,7 +4360,7 @@ h2 {
 ====================*/
 
 #aa-contact {
-  background: #ccc none repeat scroll 0 0;
+  /* background: #ccc none repeat scroll 0 0; */
   display: inline;
   float: left;
   width: 100%;
@@ -4438,7 +4438,7 @@ h2 {
   font-size: 16px;
   height: 200px;
   padding: 10px;
-  width: 70%;
+  width: 100%;
 }
 #aa-contact
   .aa-contact-area
